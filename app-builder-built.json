@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Orbital",
+      "hasCanvas": true,
+      "bodyTextLen": 134,
+      "bodyTextHash": "d9b41c1f25b73475821b774863f25c9efadf3a3a2e1133f7e23ac0db11e3941f",
+      "bodyTextPrefix": "Orbital 5 bodies Drag to fling · Scroll to zoom · Right-drag to ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Orbital",
+      "hasCanvas": true,
+      "bodyTextLen": 113,
+      "bodyTextHash": "e450c53e5e5662be26deec1a0b83252f582a2930782806bf31a28bd01eefa39f",
+      "bodyTextPrefix": "Orbital 5 bodies Drag to fling · Pinch to zoom Moon Planet Giant",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
